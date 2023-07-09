@@ -1,0 +1,33 @@
+.container{
+    background-color: #123239;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 500px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: bisque;
+}
+.radioButton{
+    margin-top: 15px;
+}
+.options{
+    margin-top: 10px;
+    margin-left: -18%;
+}
+.question{
+    color: white;
+    font-size: 40px;
+    width: 40%;
+}
+.title{
+    font-size: 20px;
+    padding: 20px;
+}
+.saveButton{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.button{
+    margin-left: 10px;
+    margin-right: 10px;
+}

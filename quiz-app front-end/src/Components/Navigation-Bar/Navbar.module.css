@@ -1,0 +1,31 @@
+.navContainer{
+    display: flex;
+    padding: 0px 20px 0px 20px;
+    justify-content: space-between;
+    background-color: rgba(0, 85, 88, 0.486);
+}
+.titleBar{
+    font-size: 40px;
+    font-weight: 600;
+    color: #B0C4DE;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    margin-right: 1%;
+}
+.commonIconCss{
+    margin-left: 30px;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.commonIconCss:hover{
+    cursor: pointer;
+}
+.iconColor{
+    text-decoration: none;
+    color:	#B0C4DE;
+}
+.activeLink{
+    background: #dbe4e1 !important;
+}

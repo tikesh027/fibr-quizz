@@ -1,0 +1,46 @@
+.container{
+    background-color: #123239;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+}
+.formContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+}
+.textField{
+    background-color: white;
+    margin-bottom: 20px;
+    width: 80%;
+}
+.button{
+    margin-top: 20px;
+    width: 80%;
+}
+.title{
+    font-size: 50px;
+    font-weight: 600;
+    color: #003861;
+    margin-bottom: 20px;
+}
+.inputCtr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.loginLink{
+    margin: 20px 0;
+}
+
+.loginLink>a{
+    color: rgb(61, 116, 206);
+}

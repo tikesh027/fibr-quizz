@@ -1,0 +1,11 @@
+body{
+  /* background-color: #121d29; */
+}
+.homePageColor{
+  /* background-color: #121d29; */
+  text-align: center;
+}
+
+.main{
+  height: calc(100vh - 48px) !important;
+}
